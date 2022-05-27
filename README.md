@@ -10,3 +10,5 @@ I'm Yubo, an iOS + API engineer at [LinkedIn](https://apps.apple.com/gb/app/link
 - Used to write Python and TypeScript
 - Currently learning SwiftUI and Blender
 - Flutter is good, but at what cost
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnth97&layout=compact)
