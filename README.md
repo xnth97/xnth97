@@ -7,8 +7,7 @@ I'm Yubo, an iOS + API engineer at [LinkedIn](https://apps.apple.com/gb/app/link
 ### Tech facts
 
 - I write Swift and Objective-C daily, sometimes Java and JavaScript
-- Used to write Python and TypeScript
-- Currently learning SwiftUI and Blender
+- Also write some Go, TypeScript and Python
 - Flutter is good, but at what cost
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnth97&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnth97&layout=compact&hide=html&langs_count=8&theme=swift)
