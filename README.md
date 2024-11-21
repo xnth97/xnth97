@@ -6,11 +6,12 @@ I'm Yubo and I work on watchOS at [Apple](https://github.com/apple). Previously 
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=swift,go,js,ts,java,py,c,cs,nodejs,html,dart,flutter,react,vscode,visualstudio,ps,pr,linkedin&perline=20)
+![My Skills](https://skillicons.dev/icons?i=apple,swift,c,cpp,cs,js,ts,java,py,go,nodejs,html,dart,flutter,react,tailwind,vscode,visualstudio,linkedin,azure&perline=20)
 
 ### Tech facts
 
-- I write Swift and Objective-C daily, sometimes Java and JavaScript
-- Also write some Go, TypeScript and Python
+- I write Swift and Objective-C daily, sometimes C and C++
+- UIKit and SwiftUI
+- RN/Flutter/Maui/KMP is good, _but at what cost?_
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnth97&layout=compact&hide=html&langs_count=8&theme=swift)
